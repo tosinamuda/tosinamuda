@@ -1,7 +1,5 @@
                                                          👋 Tosin Amuda 
-                      
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                      
+                 
 💬 About Me
 
 I am Tosin Amuda (@tosinamuda), a FullStack Software Engineer at IBM, I love to build products that leverages Cloud and Human Centered AI - (Conversational AI, LLM & Explanable)
