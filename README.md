@@ -1,4 +1,4 @@
-                                                         👋 Tosin Amuda 
+                                                      👋 Tosin Amuda 
                  
 💬 About Me
 
