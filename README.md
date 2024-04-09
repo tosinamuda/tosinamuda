@@ -2,15 +2,14 @@
                  
 💬 About Me
 
-I am Tosin Amuda (@tosinamuda), a FullStack Software Engineer at IBM, I love to build products that leverages Cloud and Human Centered AI - (Conversational AI, LLM & Explanability)
+- I am Tosin Amuda (@tosinamuda), a FullStack Software Engineer at IBM, I love building Cloud-Native & AI-Native products. 
+- You will mostly find me working with a pnpm monorepo with TRPC in a `react-typescript-node` fullstack project and something node switched with python.
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👯 My Favourite Stack
-- Frontend: React (NextJS), Typescript, Tailwind
+- Frontend: React (NextJS), Typescript, Tailwind, TRPC
 - Backend: Python - FastAPI, NodeJs - Typescript & Express
-- AI: Langchain, Conversational AI (IBM Watson), LLM (GPT, LLAMA, FALCON), Explanability (Openscale)
-- Data : Python - Numpy, Pandas, 
-
+- AI: Langchain, Conversational AI (IBM Watson), LLM (GPT, LLAMA, FALCON), AI Governance/Explanability (Openscale, Openpages)
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
