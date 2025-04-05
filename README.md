@@ -8,8 +8,8 @@
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👯 My Favourite Stack
-- Frontend: React (NextJS), Typescript, Tailwind, TRPC
+- Frontend: React (Vite, React Router or NextJS), Typescript, Tailwind, TRPC
 - Backend: Python - FastAPI, NodeJs - Typescript & Express
-- AI: Langchain, Conversational AI (IBM Watson), LLM (GPT, LLAMA, FALCON), AI Governance/Explanability (Openscale, Openpages)
+- AI: Langchain, Conversational AI (IBM Watson), LLM (GPT, Claude, OpenSource( LLAMA, Mixtral))
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
