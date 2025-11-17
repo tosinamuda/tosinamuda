@@ -1,15 +1,11 @@
-                                                      👋 Tosin Amuda 
-                 
-💬 About Me
+👋 Tosin Amuda
 
-- I am Tosin Amuda (@tosinamuda), a FullStack Software Engineer at IBM, I love building Cloud-Native & AI-Native products. 
-- You will mostly find me working with a pnpm monorepo with TRPC in a `react-typescript-node/python` fullstack project.
+Enterprise Architect at IBM doing mostly Applied AI Engineering. I bridge research ideas and papers to production systems—replicating academic work, fine-tuning models, and building agents that ship at scale.
 
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**What I build here:**
+- Research replications: UIST 2024 Memolet (conversational memory)
+- Fine-tuning pipelines: Llama 3.2 3B with LoRA + DSPy as Synthetic Data Generator Layer (ranked 47/198 in AWS AI League)
+- Agent systems: LangGraph, AWS Strand 
+- Full-stack AI apps: React/TypeScript frontends, FastAPI/Express backends, vector search
 
-👯 My Favourite Stack
-- Frontend: React (Vite, React Router or NextJS), Typescript, Tailwind, TRPC
-- Backend: Python - FastAPI, NodeJs - Typescript & Express
-- AI: Langchain, Conversational AI (IBM Watson), LLM (GPT, Claude, OpenSource( LLAMA, Mixtral))
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Open to Applied AI Engineering roles.
