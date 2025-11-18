@@ -18,8 +18,8 @@ I'm an engineer with IBM, who love applying emerging technology like AI to solve
 **What I'm mostly doing on Github**
 
 *See my pinned repositories below for some of my work, including:*
-- Graspy: Multi-agent AI tutoring system for out-of-school children
-- Karia-ai: Career exploration tool with 2000+ users
+- <a href="https://graspy.tosinamuda.com">Graspy</a>: Multi-agent AI tutoring system for out-of-school children
+- <a href="https://karia-ai.web.app">Karia-ai</a>: Career exploration tool with 2000+ users
 - Memolet replication: UIST 2024 paper implementation
 - Synthetic Data Generation through DsPy for fine-tuning
 
