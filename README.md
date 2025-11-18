@@ -15,6 +15,16 @@ I'm an engineer with IBM, who love applying emerging technology like AI to solve
   
 ---
 
+**What I'm mostly doing on Github**
+
+*See my pinned repositories below for some of my work, including:*
+- Graspy: Multi-agent AI tutoring system for out-of-school children
+- Karia-ai: Career exploration tool with 2000+ users
+- Memolet replication: UIST 2024 paper implementation
+- Synthetic Data Generation through DsPy for fine-tuning
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -50,13 +60,3 @@ _Others:** DSPy, AWS Strand, Bee AI, Crew AI, Google ADK, Chroma, SQLite-vec, IB
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" />
-
----
-
-## 💻 Projects
-
-**See my pinned repositories below for some of my work**, including:
-- Graspy: Multi-agent AI tutoring system for out-of-school children
-- Karia-ai: Career exploration tool with 2000+ users
-- Memolet replication: UIST 2024 paper implementation
-- Synthetic Data Generation through DsPy for fine-tuning
