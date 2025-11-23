@@ -1,9 +1,7 @@
 # Hi, I'm Tosin Amuda 👋
 
 <a href="https://tosinamuda.com"><img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://linkedin.com/in/tosinamuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/tosinamuda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
+<a href="https://linkedin.com/in/tosinamuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <br />
 
 I'm an engineer with IBM, who love applying emerging technology like AI to solve interesting problems. I usually own the full stack of my work.
