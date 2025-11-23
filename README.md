@@ -7,10 +7,8 @@
 I love building with technology to solve interesting problems, stack don't matter to me, the best way to describe me is an _Anystack Engineer_.
 
 **What I'm passionate about:**
-- Impactful work that matter
-- 🎓 AI for education/learning by building AI tools that help students learn and explore career options
-- Other technology for social good interesting use-case
-- 🌍 Low-resource AI and offline-first systems
+- Technology that makes Education more accessible and personalized and other technology for social good use-cases
+- Other Impactful work that matters
   
 ---
 
