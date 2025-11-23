@@ -1,4 +1,4 @@
-# Hi, I'm Tosin Amuda 👋
+# Tósìn 👋
 
 <a href="https://tosinamuda.com"><img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://linkedin.com/in/tosinamuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
