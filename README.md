@@ -1,9 +1,5 @@
 # Tósìn 👋
 
-<a href="https://tosinamuda.com"><img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://linkedin.com/in/tosinamuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<br />
-
 I love building with technology to solve interesting problems, stack don't matter to me, the best way to describe me is an _Anystack Engineer_.
 
 **What I'm passionate about:**
@@ -19,3 +15,8 @@ I love building with technology to solve interesting problems, stack don't matte
 - <a href="https://karia-ai.web.app">Karia-ai</a>: Career exploration tool with 2000+ users
 - Memolet replication: UIST 2024 paper implementation
 - Exploring DsPy for Synthetic data Generation
+
+---
+
+<a href="https://tosinamuda.com"><img src="https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://linkedin.com/in/tosinamuda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
