@@ -14,6 +14,7 @@ I love building with technology to solve interesting problems, stack don't matte
 - <a href="https://graspy.tosinamuda.com">Graspy</a>: Multi-agent AI tutoring system for out-of-school children
 - <a href="https://karia-ai.web.app">Karia-ai</a>: Career exploration tool with 2000+ users
 - Memolet replication: UIST 2024 paper implementation
+- <a href="https://github.com/tosinamuda/rlm-playground">RLM replication</a>
 - Exploring DsPy for Synthetic data Generation
 
 ---
