@@ -1,21 +1,15 @@
-# Tósìn 👋
+# Tósìn 👋
 
-I love building with technology to solve interesting problems, stack don't matter to me, the best way to describe me is an _Anystack Engineer_.
+Engineer/Architect experimenting with new technologies as I learn.
 
-**What I'm passionate about:**
-- Technology that makes Education more accessible and personalized and other technology for social good use-cases
-- Other Impactful work that matters
-  
+Currently excited about AI and how it can improve education access, personalization, quality, and broader social impact.
+
 ---
 
-**What I'm mostly doing on Github**
+**Current projects**
 
-*See my pinned repositories below for some of my work, including:*
-- <a href="https://graspy.tosinamuda.com">Graspy</a>: Multi-agent AI tutoring system for out-of-school children
-- <a href="https://karia-ai.web.app">Karia-ai</a>: Career exploration tool with 2000+ users
-- Memolet replication: UIST 2024 paper implementation
-- <a href="https://github.com/tosinamuda/rlm-playground">RLM replication</a>
-- Exploring DsPy for Synthetic data Generation
+* <a href="https://github.com/getlatentic/compose">Compose</a>: a local-first, AI-native markdown editor for macOS that turns your documents into a live workspace for AI agents. Use tools like Claude Code or Codex directly inside the editor to read, edit, and iterate on content in place, without copy-pasting or context switching.
+* <a href="https://github.com/getlatentic/agent-harness">agent-harness</a>: a Rust library for building and orchestrating local AI agents through a single streaming API. It unifies Claude Code, Codex, ACP-compatible agents, and OpenAI-style endpoints like Ollama or OpenRouter, so you can drive complex agent workflows without stitching together multiple integrations.
 
 ---
 
